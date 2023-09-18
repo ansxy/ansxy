@@ -1,8 +1,8 @@
-# 💫 About Me:
+#  About Me:
 Enthusiastic and motivated undergraduate informatics's student who like reading book,playing chess and learn new things about technology , especially in the field Web Development . 
 
 
-## 🌐 Socials:
+##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ansar-fadillah-a09ba1189/) 
 
 # 💻 Tech Stack:
