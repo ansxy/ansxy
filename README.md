@@ -1,5 +1,5 @@
 #  About Me:
-Enthusiastic and motivated undergraduate informatics's student who like reading book,playing chess and learn new things about technology , especially in the field Web Development . 
+Enthusiastic and motivated Fresh Graduate informatics's student who like reading book,playing chess and learn new things about technology , especially in the field Web Development . 
 
 
 ##  Socials:
